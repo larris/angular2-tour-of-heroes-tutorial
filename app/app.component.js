@@ -51,7 +51,7 @@ System.register(['angular2/core', 'angular2/router', './hero.service', './heroes
                     router_1.RouteConfig([
                         {
                             path: '/dashboard',
-                            name: 'Dashboard',
+                            name: 'Dashboa',
                             component: dashboard_component_1.DashboardComponent,
                             useAsDefault: true
                         },
